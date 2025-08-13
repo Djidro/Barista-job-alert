@@ -1,14 +1,15 @@
-# Barista Job Alert System
+# ☕ Barista Job Alert System  
 
-Automatically scans for barista jobs in GCC countries and sends Telegram alerts.
+Automatically scans for barista jobs in GCC countries and sends Telegram alerts.  
 
-## Setup
-1. Set these GitHub Secrets:
-   - `TELEGRAM_TOKEN` - From @BotFather
-   - `TELEGRAM_CHAT_ID` - From @userinfobot
-   - `GH_TOKEN` - GitHub Personal Access Token with `repo` scope
+## 🔧 Setup  
 
-2. The system runs hourly via GitHub Actions.
+1. **Set these GitHub Secrets**:  
+   - `TELEGRAM_TOKEN` - From [@BotFather](https://t.me/BotFather)  
+   - `TELEGRAM_CHAT_ID` - Get it from [@userinfobot](https://t.me/userinfobot)  
+   - `GH_TOKEN` - [GitHub Personal Access Token](https://github.com/settings/tokens) with `repo` scope  
 
-## Control Panel
-Visit: https://YOUR_GITHUB_USERNAME.github.io/barista-job-alerts/
+2. **The system runs hourly** via GitHub Actions.  
+
+## 🌐 Control Panel  
+👉 [View Dashboard](https://YOUR_GITHUB_USERNAME.github.io/barista-job-alerts/)
